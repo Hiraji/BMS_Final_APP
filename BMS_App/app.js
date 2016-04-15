@@ -1,4 +1,5 @@
-/* BMS app Defined */
+// BMS app Defined //
+//hi
 var mainApp = angular.module("BMS", ['ngRoute']);
 /* connection to MySQL database */
 mainApp.constant('MYSQL_URL','https://greatnode.herokuapp.com/api');
